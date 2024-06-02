@@ -1,6 +1,6 @@
 ## Hi there 👋
 # 💫 About Me:
-🔭 I’m currently working on React Aplications.<br>🌱 I’m currently learning MERN , Next JS, DSA<br> 💬 Ask me about Javascript, React JS, Frontend development, DSA<br>📫 How to reach me info.nidhiyadav411@gmail.com<br>👨‍💻 All of my projects are available at https://github.com/Nidhi-411<br><br>
+🔭 I’m currently working on React Aplications.<br>🌱 I’m currently learning DSA<br> 💬 Ask me about Javascript, React JS, Frontend development, DSA<br>📫 How to reach me info.nidhiyadav411@gmail.com<br>👨‍💻 All of my projects are available at https://github.com/Nidhi-411<br><br>
 
 
 ## 🌐 Socials:
